@@ -1,0 +1,16 @@
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\bin\Debug\net8.0-windows\fibonacci_cal.exe
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\bin\Debug\net8.0-windows\fibonacci_cal.deps.json
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\bin\Debug\net8.0-windows\fibonacci_cal.runtimeconfig.json
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\bin\Debug\net8.0-windows\fibonacci_cal.dll
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\bin\Debug\net8.0-windows\fibonacci_cal.pdb
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.Form1.resources
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.csproj.GenerateResource.cache
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.AssemblyInfoInputs.cache
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.AssemblyInfo.cs
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.csproj.CoreCompileInputs.cache
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.dll
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\refint\fibonacci_cal.dll
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.pdb
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\fibonacci_cal.genruntimeconfig.cache
+C:\Users\Sarand\source\repos\fibonacci_cal\fibonacci_cal\obj\Debug\net8.0-windows\ref\fibonacci_cal.dll
